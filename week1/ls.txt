@@ -1,0 +1,6 @@
+githubexercise.txt
+gitinfo.txt
+gitlogafter.txt
+gitlogbefore.txt
+gitreset.txt
+ls.txt
